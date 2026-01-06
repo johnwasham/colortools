@@ -1,0 +1,11 @@
+.colorselect {
+    display: inline-block;
+    border: 1px #555 solid;
+    border-radius: 10px;
+    padding: 0.5rem;
+    margin-right: 1em;
+}
+
+.colorselect label {
+    display: block;
+}
