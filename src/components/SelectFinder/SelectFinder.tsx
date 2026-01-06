@@ -28,7 +28,7 @@ export const SelectFinder = () => {
 
     return (
         <>
-            <div className="selectFinder">
+            <div>
                 <h2>Select Blending Mode Color Finder</h2>
                 <p>
                     <strong>How to Use It:</strong><br />
